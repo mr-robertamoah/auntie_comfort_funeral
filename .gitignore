@@ -1,0 +1,10 @@
+node_modules
+.next
+.DS_Store
+*.log
+.env*.local
+fun_broc_final-2.pdf
+content.txt
+/images/
+qr-code.png
+qr-code.svg
